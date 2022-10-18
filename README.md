@@ -1,0 +1,1 @@
+Only support 7-Eleven Receipt
